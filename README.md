@@ -12,7 +12,7 @@
 - 🌱 Learning Backend Development 
 - 💬 Feel free to ask me anything about Flutter & ios .
 - 👀 Wanna see, what I do? [Portfolio](https://type.link/abdulhannange5)
-- 📜 Take a look at my [Resume](https://drive.google.com/file/d/1IS8fIxf_smGrgYN0nD4X_vSjDF4E_Cpn/view?usp=sharing)
+- 📜 Take a look at my [Resume](https://drive.google.com/file/d/1J0ISLWlBUiLfludSc81vIxg-KEwImVtS/view?usp=sharing)
 - 📫 Reach me at: [abdulhannange5@gmail.com](mailto:abdulhannange5@gmail.com)
 
 ## 🌐 Connect with Me:
