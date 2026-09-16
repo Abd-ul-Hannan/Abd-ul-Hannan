@@ -11,7 +11,7 @@
 - 🔭 Currently working with Flutter and ios.
 - 🌱 Learning Backend Development 
 - 💬 Feel free to ask me anything about Flutter & ios .
-- 👀 Wanna see, what I do? [Portfolio](https://type.link/abdulhannange5)
+- 👀 Wanna see, what I do? [Portfolio]()
 - 📜 Take a look at my [Resume](https://drive.google.com/file/d/1J0ISLWlBUiLfludSc81vIxg-KEwImVtS/view?usp=sharing)
 - 📫 Reach me at: [abdulhannange5@gmail.com](mailto:abdulhannange5@gmail.com)
 
